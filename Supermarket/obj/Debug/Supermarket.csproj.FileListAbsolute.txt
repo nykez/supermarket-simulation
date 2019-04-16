@@ -1,0 +1,14 @@
+C:\Users\Jordan\source\repos\Supermarket\Supermarket\bin\Debug\Supermarket.exe.config
+C:\Users\Jordan\source\repos\Supermarket\Supermarket\bin\Debug\Supermarket.exe
+C:\Users\Jordan\source\repos\Supermarket\Supermarket\bin\Debug\Supermarket.pdb
+C:\Users\Jordan\source\repos\Supermarket\Supermarket\obj\Debug\Supermarket.csprojAssemblyReference.cache
+C:\Users\Jordan\source\repos\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\source\repos\Supermarket\Supermarket\obj\Debug\Supermarket.exe
+C:\Users\Jordan\source\repos\Supermarket\Supermarket\obj\Debug\Supermarket.pdb
+C:\Users\jordan\Desktop\Supermarket\Supermarket\bin\Debug\Supermarket.exe.config
+C:\Users\jordan\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.exe
+C:\Users\jordan\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.pdb
+C:\Users\jordan\Desktop\Supermarket\Supermarket\bin\Debug\Supermarket.exe
+C:\Users\jordan\Desktop\Supermarket\Supermarket\bin\Debug\Supermarket.pdb
+C:\Users\Jordan\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.csprojAssemblyReference.cache
+C:\Users\Jordan\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.CoreCompileInputs.cache
