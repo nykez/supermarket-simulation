@@ -1,4 +1,3 @@
-[![Github All Releases](https://img.shields.io/github/downloads/nykez/supermarket-simulation/total.svg)]()
 
 
 # supermarket-simulation
