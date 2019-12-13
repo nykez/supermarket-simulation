@@ -1,3 +1,5 @@
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)]()
+
 # supermarket-simulation
 A C# Application to simulate checkout lines at a Supermarket.
 
